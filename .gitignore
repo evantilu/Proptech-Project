@@ -135,3 +135,6 @@ data/backup/
 
 # avoid legal issue such as data redistribution. Let's don't keep data in the public repo
 *.csv
+
+
+*.pptx
