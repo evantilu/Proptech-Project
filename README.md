@@ -1,5 +1,6 @@
 # SP22_proptech_project
-Personal term project for Spring 2022 PLANA6865 property technology semi course taught by Prof. Kurt Franz at Columbia University
+Personal project for PLANA6865 Property Technology Course at Columbia University, Spring 2022
+- Professor: Kurt Franz
 
 ## Data
 From realtor.com &nbsp;
